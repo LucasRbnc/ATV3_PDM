@@ -1,6 +1,6 @@
 # Atividade - Servidor
 
-A aplicação possui um servidor usado para persitir dados de contatos tabela _contacts_ do _dblocation_ do SQLite.
+A aplicação possui um servidor usado para persitir dados de contatos na tabela _contacts_ do _dblocation_ do SQLite.
 
 A tabela _contacts_ possui os seguintes campos:
 ```
